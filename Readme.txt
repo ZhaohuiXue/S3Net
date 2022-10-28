@@ -6,7 +6,7 @@
 %    main.py ....... A main script executing experiments upon IP, PU, and HU data sets.
 %    data_read.py ....... A script implementing various data manipulation functions.
 %    Function.py ....... A script implementing the precision calculation, claasificaiton map drawing, and etc.
-%    model.py ....... A script implementing the S3Net model.
+%    model.pyd ....... A script implementing the S3Net model.
 %    loss_function.py ....... A script implementing some loss functions.
 %    Final_Experiment.csv ...... A csv saving the accuracy information after training
 % 
@@ -16,7 +16,7 @@
 %   --------------------------------------
 %   Note: Required core python libraries
 %   --------------------------------------
-%   1. python 3.6.12
+%   1. python 3.7
 %   2. pytorch 1.7.1
 %   3. torchvision 0.8.2
 
